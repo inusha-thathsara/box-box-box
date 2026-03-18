@@ -2,8 +2,8 @@
 # Example patterns below - uncomment and modify as needed:
 
 # Python
-# __pycache__/
-# *.pyc
+__pycache__/
+*.pyc
 # .venv/
 # venv/
 
@@ -24,3 +24,10 @@
 # IDE files
 # .vscode/
 # .idea/
+
+# Local experiment outputs
+*.tmp
+
+# Large archived model artifacts (keep local, don't commit)
+models_archive/match_model.json
+models_archive/pair_match_model.json

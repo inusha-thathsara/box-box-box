@@ -1,0 +1,38 @@
+{
+  "temp_reference": 27.118351613755426,
+  "fresh_tire_penalty": -0.5145592773496612,
+  "pre_pit_lap_offset": -0.4340351319873507,
+  "post_pit_lap_offset": 0.48394801902068185,
+  "compounds": {
+    "SOFT": {
+      "base_offset": -1.6035920418106349,
+      "grace_laps": 7,
+      "deg_linear": 0.5519664394017356,
+      "deg_quadratic": 0.00967634785261564,
+      "temp_base_coeff": 0.0012964766552280736,
+      "temp_deg_coeff": 0.005048732907809421,
+      "late_start": 77,
+      "late_deg_linear": 0.0061467104074677155
+    },
+    "MEDIUM": {
+      "base_offset": -0.685105533014114,
+      "grace_laps": 2,
+      "deg_linear": 0.0004422901752488568,
+      "deg_quadratic": 0.006135619593253447,
+      "temp_base_coeff": -0.023204440484280667,
+      "temp_deg_coeff": 0.0007212675831689494,
+      "late_start": 75,
+      "late_deg_linear": 0.0
+    },
+    "HARD": {
+      "base_offset": 0.07957216760447328,
+      "grace_laps": 3,
+      "deg_linear": 0.005847636547208573,
+      "deg_quadratic": 0.0017230439766755894,
+      "temp_base_coeff": -0.0065253744854606695,
+      "temp_deg_coeff": 1.9272997418747504e-06,
+      "late_start": 77,
+      "late_deg_linear": 0.0009302075764683697
+    }
+  }
+}

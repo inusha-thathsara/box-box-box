@@ -1,0 +1,39 @@
+{
+    "temp_reference":  30.085922834340195,
+    "fresh_tire_penalty":  -0.20638068657835815,
+    "pre_pit_lap_offset":  0.025750162957661707,
+    "post_pit_lap_offset":  0.29358504234412569,
+    "short_race_pit_lane_scale":  0.9913941642685713,
+    "compounds":  {
+                      "SOFT":  {
+                                   "base_offset":  -1.5047206704827545,
+                                   "grace_laps":  6,
+                                   "deg_linear":  0.53798360796308409,
+                                   "deg_quadratic":  0.0091265691681751138,
+                                   "temp_base_coeff":  0.0010905306101673842,
+                                   "temp_deg_coeff":  0.0047114045731377905,
+                                   "late_start":  80,
+                                   "late_deg_linear":  0.0035963550730338371
+                               },
+                      "MEDIUM":  {
+                                     "base_offset":  -0.35590457549461429,
+                                     "grace_laps":  2,
+                                     "deg_linear":  0.0010545843613469618,
+                                     "deg_quadratic":  0.00604517929229905,
+                                     "temp_base_coeff":  -0.0015147458693804614,
+                                     "temp_deg_coeff":  0.000985077184189266,
+                                     "late_start":  76,
+                                     "late_deg_linear":  0.017389577301683463
+                                 },
+                      "HARD":  {
+                                   "base_offset":  0.17566099428329918,
+                                   "grace_laps":  3,
+                                   "deg_linear":  0.010206907842970236,
+                                   "deg_quadratic":  0.0018589775353937419,
+                                   "temp_base_coeff":  -0.0057757375704767522,
+                                   "temp_deg_coeff":  0.00062441133533569157,
+                                   "late_start":  77,
+                                   "late_deg_linear":  0.0142064383111942
+                               }
+                  }
+}

@@ -1,0 +1,41 @@
+{
+  "temp_reference": 31.10662841796875,
+  "fresh_tire_penalty": 0.184109628200531,
+  "pre_pit_lap_offset": 0.23137952387332916,
+  "post_pit_lap_offset": 0.30862560868263245,
+  "short_race_pit_lane_scale": 0.9184970855712891,
+  "short_race_start_soft_bias": 0.0,
+  "short_race_start_hard_bias": 0.0,
+  "compounds": {
+    "SOFT": {
+      "base_offset": -1.5397827625274658,
+      "grace_laps": 6,
+      "deg_linear": 0.5460719466209412,
+      "deg_quadratic": 0.009181116707623005,
+      "temp_base_coeff": 0.0013752810191363096,
+      "temp_deg_coeff": 0.004309989046305418,
+      "late_start": 80,
+      "late_deg_linear": 0.009996404871344566
+    },
+    "MEDIUM": {
+      "base_offset": -0.5174410343170166,
+      "grace_laps": 2,
+      "deg_linear": 0.0006479760631918907,
+      "deg_quadratic": 0.0062336488626897335,
+      "temp_base_coeff": -0.007303469814360142,
+      "temp_deg_coeff": 0.0014130796771496534,
+      "late_start": 76,
+      "late_deg_linear": 0.018371136859059334
+    },
+    "HARD": {
+      "base_offset": 0.08340306580066681,
+      "grace_laps": 2,
+      "deg_linear": 0.004285345319658518,
+      "deg_quadratic": 0.0019281485583633184,
+      "temp_base_coeff": -0.006040277890861034,
+      "temp_deg_coeff": 0.0003868910134769976,
+      "late_start": 78,
+      "late_deg_linear": 0.022565385326743126
+    }
+  }
+}

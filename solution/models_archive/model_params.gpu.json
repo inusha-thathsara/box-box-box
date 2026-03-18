@@ -1,0 +1,29 @@
+{
+  "temp_reference": 30.729736328125,
+  "compounds": {
+    "SOFT": {
+      "base_offset": -0.15275464951992035,
+      "grace_laps": 6,
+      "deg_linear": 0.13686373829841614,
+      "deg_quadratic": 0.001345761469565332,
+      "temp_base_coeff": -0.02179371565580368,
+      "temp_deg_coeff": 0.0006155204027891159
+    },
+    "MEDIUM": {
+      "base_offset": -0.6297627091407776,
+      "grace_laps": 1,
+      "deg_linear": 0.05374044552445412,
+      "deg_quadratic": 0.0003349185280967504,
+      "temp_base_coeff": -0.03136289119720459,
+      "temp_deg_coeff": 0.002349254209548235
+    },
+    "HARD": {
+      "base_offset": 0.019476382061839104,
+      "grace_laps": 2,
+      "deg_linear": 0.0026003802195191383,
+      "deg_quadratic": 0.0005715206498280168,
+      "temp_base_coeff": -0.009351101703941822,
+      "temp_deg_coeff": 0.0012521313037723303
+    }
+  }
+}
